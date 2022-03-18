@@ -1,6 +1,6 @@
 ## Jason Kalili
 
-<img class="header" src="./assets/avatar.jpg" width=75 style="border-radius:75px">
+<img class="header" src="./assets/avatar.JPG" width=75 style="border-radius:75px">
 
 <article float="left" class="col-6 col-12-xsmall work-item">
 <a href="https://github.com/cpon00/fitcheck" class="image fit thumb"><img src="assets\fitcheck.png" width=350></a>
