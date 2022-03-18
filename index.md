@@ -1,37 +1,28 @@
 ## Jason Kalili
 
-You can use the [editor on GitHub](https://github.com/jkalili/Website-Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Jason Kalili](./assets/avatar.JPG#avatar)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my Website
 
-### Markdown
+### Content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkalili/Website-Test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<article class="col-6 col-12-xsmall work-item">
+<a href="https://github.com/cpon00/fitcheck" class="image fit thumb"><img src="assets\fitcheck.png" alt=""></a>
+<h3>FitCheck, <strong>Product Manager/Full Stack Developer</strong></h3>
+    <p>FitCheck is an app designed to cultivate, develop, and encourage the growth of fashion
+        sense through community involvement. As a Product Manager and Full Stack Developer, my responsibilities include conducting weekly standup meetings, 
+        sprint and workflow management, team assignments, as well as development and oversight of various application functions, which currently include 
+        user authentication, state/user credential maintenance through Redux, camera/gallery upload, and database management and strategy.
+        Our project uses ReactJS/React Native, React Redux, Expo, Node.js, and Google Firebase.
+    </p>
+</article>
+<article class="col-6 col-12-xsmall work-item">
+<a href="https://cpon00.github.io/midi-chlorian/" class="image fit thumb"><img src="assets/midichlorian.png" alt="" /></a>
+<h3>Midi-Chlorian, <strong>Lead Designer</strong></h3>
+    <p>
+        Midi-Chlorian is a programming language inspired by Star Wars and George Lucas.
+        As Lead Designer, I built our programmatic grammar, interpretation methods, compilation
+        tools, code generation and optimization. This project was built using Javascript, Node.js, 
+        the Ohm Library, and MochaJS.
+    </p>
+</article>
