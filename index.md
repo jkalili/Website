@@ -1,13 +1,9 @@
 ## Jason Kalili
 
-![Jason Kalili](./assets/avatar.JPG#avatar)
+<img class="header" src="./assets/avatar.jpg" width=75 style="border-radius:75px">
 
-Welcome to my Website
-
-### Content
-
-<article class="col-6 col-12-xsmall work-item">
-<a href="https://github.com/cpon00/fitcheck" class="image fit thumb"><img src="assets\fitcheck.png" alt=""></a>
+<article float="left" class="col-6 col-12-xsmall work-item">
+<a href="https://github.com/cpon00/fitcheck" class="image fit thumb"><img src="assets\fitcheck.png" width=350></a>
 <h3>FitCheck, <strong>Product Manager/Full Stack Developer</strong></h3>
     <p>FitCheck is an app designed to cultivate, develop, and encourage the growth of fashion
         sense through community involvement. As a Product Manager and Full Stack Developer, my responsibilities include conducting weekly standup meetings, 
@@ -16,8 +12,9 @@ Welcome to my Website
         Our project uses ReactJS/React Native, React Redux, Expo, Node.js, and Google Firebase.
     </p>
 </article>
-<article class="col-6 col-12-xsmall work-item">
-<a href="https://cpon00.github.io/midi-chlorian/" class="image fit thumb"><img src="assets/midichlorian.png" alt="" /></a>
+
+<article float="right" class="col-6 col-12-xsmall work-item">
+<a href="https://cpon00.github.io/midi-chlorian/" class="image fit thumb"><img src="assets/midichlorian.png" width=350 /></a>
 <h3>Midi-Chlorian, <strong>Lead Designer</strong></h3>
     <p>
         Midi-Chlorian is a programming language inspired by Star Wars and George Lucas.
